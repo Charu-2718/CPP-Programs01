@@ -5,7 +5,7 @@
 //multiplication
 //searching an element O(n*n)
 
-//1
+//1.)input output
 // #include<iostream>
 // using namespace std;
 // int main(){
