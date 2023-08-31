@@ -1,4 +1,4 @@
-// conversion from octal to decimal
+// conversion from octal to decimal system
 // #include<iostream>
 // #include<bits/stdc++.h>
 // using namespace std;
